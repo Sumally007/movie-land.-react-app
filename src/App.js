@@ -4,13 +4,13 @@ import './App.css';
 import SearchIcon from './search.svg'
 const API_URL = 'http://www.omdbapi.com?apikey=5bcea206'
 
-const movie = {
-    "Title": "The Amazing Spiderman 2 Webb Cut",
-    "Year": "2021",
-    "imdbID": "tt18351128",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzI0MmQyMzYtZDAzNi00ZWZiLWFjMTgtNzQwOTRjYTFlM2Y3XkEyXkFqcGc@._V1_SX300.jpg"
-}
+// const movie = {
+//     "Title": "The Amazing Spiderman 2 Webb Cut",
+//     "Year": "2021",
+//     "imdbID": "tt18351128",
+//     "Type": "movie",
+//     "Poster": "https://m.media-amazon.com/images/M/MV5BNzI0MmQyMzYtZDAzNi00ZWZiLWFjMTgtNzQwOTRjYTFlM2Y3XkEyXkFqcGc@._V1_SX300.jpg"
+// }
 
 
 const App = (title) => {
